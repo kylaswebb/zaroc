@@ -1,6 +1,35 @@
-# Zaroc - PHP Chatbot Library - A Simpler Solution to Complex Backends **📌In Construction**
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-> ### Welcome to Zaroc, the library that allows you to fastly build chatbots in Dialogflow with PHP
+<br />
+<p align="center">
+  <a href="https://github.com/Mizar-Contasti/zaroc">
+    <img src="https://codexceleste.com/github/zaroc/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Zaroc - PHP Chatbot Library</h3>
+
+  <p align="center">
+    ¡A Simpler Solution to Complex Chatbots Backends!
+    <br />
+    <a href="https://github.com/Mizar-Contasti/zaroc"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="mailto:contasti.mizar@gmail.com">Colaborate</a>
+    ·
+    <a href="https://github.com/Mizar-Contasti/zaroc/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Mizar-Contasti/zaroc/issues">Request Feature</a>
+
+  </p>
+</p>
+
+<h4 align="center">Welcome to Zaroc, the library that allows you to fastly build chatbots in Dialogflow with PHP</h4>
+<br />
 
 ## Summary
 
