@@ -178,7 +178,7 @@
 ### 🙌How to Colaborate
 
 > - Tell me your Ideas, and how do you can colaborate
-> - Mail me [Here]()
+> - Mail me [Here](mailto:contasti.mizar@gmail.com)
 
 ### 😁People Who colaborate on Zaroc
 
