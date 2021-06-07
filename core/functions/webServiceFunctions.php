@@ -85,13 +85,22 @@ function getContextLocation($number1,$number2)
 
 //AVAILABLE ONLY WHATSAPP
 
-function getPhoneNumber()
+function getWhatsappPhoneNumber()
 {
     global $input;
     $userPhone = substr(intval(preg_replace('/[^0-9]+/', '', $input["session"]), 10),-10);
     return $userPhone;
 }
-
+
+//AVAILABLE ONLY TELEGRAM
+function getTelegramChatId()
+{
+    global $input;
+
+    $chatId = $input["originalDetectIntentRequest"]["payload"]["data"]["chat"]["id"];
+    return $chatId;
+}
+
 
 
 
