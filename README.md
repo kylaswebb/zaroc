@@ -141,16 +141,19 @@
 
 ### Incomming Changes
 
-> - getSessionID (Retrieves Session ID from the conversation)
-> - SM Constructor and Templates Improved to work with more than 1 type of SM (Allow you to build for Telegram, facebook and other SM in the same Structure)
-> - Universal Constructor (**DM**, **SM**, **WS**)
+> - getSessionID (Retrieves Session ID from the conversation).
+> - SM Constructor and Templates will be splitted in Telegram and Facebook respectively.
+> - Universal Constructor (**DM**, **SM**, **WS**).
+> - Telegram Vertical Buttons, Request userInfo Button.
+> - Readable structure of Chatbot Base File and Zaroc.
 
 ### 0.4
 
 > - **WS** WhatsApp blocks and Templates Added
-> - getPhoneNumber Function implemented **WS Only** (Retrieves userPhone Number)
+> - getWhatsappPhoneNumber Function implemented **WS Only** (Retrieves userPhone Number)
 > - Zaroc now has a Modular Arquitecture (Makes easy to read and understand)
 > - First Look of Documentation Implemented
+> - getTelegramChatId Function implemented **TG Only** (Retrieves chatId Number)
 
 ### 0.3
 
