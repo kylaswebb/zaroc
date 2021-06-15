@@ -63,9 +63,9 @@
 
 > ### Get Started with **[this Video]()** or **Read the Instructions below**
 
-> - Download the Core Folder **[Here](https://drive.google.com/drive/folders/1IGo488G_OIMosRhja4psrOHwwrJ-nsCa?usp=sharing)**
-> - Download the Bot Template **[Here](https://drive.google.com/drive/folders/1SesO4t1u0W7pEdirmBTE7NGg2e3hTGJi?usp=sharing)**
-> - Put it on the same folder E.i. "Chatbots"
+> - Download the Core Folder **[Here](https://drive.google.com/file/d/1M73RdmDD4XTuDQAL65nNtuuqg4sHi-NL/view?usp=sharing)**
+> - Download the Core, Vendor and Chatbot Example Folder **[Here](https://drive.google.com/file/d/1LG9UKpZCDJFiva6J0uk6Zv1K5ABINZJ-/view?usp=sharing)**
+> - Zaroc will be the Root Folder (Core, Vendor and Chatbot Example Folder have the correct structure)
 
 ![Put it on the same folder](https://codexceleste.com/github/zaroc/md_1.jpg)
 
