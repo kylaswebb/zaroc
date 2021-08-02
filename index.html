@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width-device-width, initial-scale=1" />
+    <link
+      rel="icon"
+      href="https://codexceleste.com/chatbots/kael/core/images/logo.png"
+      type="image/x-icon"
+    />
+
+    <title>Bot</title>
+  </head>
+
+  <body>
+    <style>
+      df-messenger {
+        --df-messenger-bot-message: #2f31bc; /* El color de fondo de la burbuja para los mensajes del agente */
+
+        --df-messenger-user-message: #2f6cbc; /* El color de fondo de la burbuja para los mensajes del usuario */
+
+        --df-messenger-font-color: #ffffff; /* El color de fuente para los mensajes */
+
+        --df-messenger-send-icon: #2f31bc; /* El color del ícono de envío en la casilla de entrada de texto */
+
+        --df-messenger-button-titlebar-color: #2f31bc; /* El color del botón flotante y de la barra de título del cuadro de chat */
+
+        --df-messenger-button-titlebar-font-color: #ffffff; /* El color de fuente del título "NOMBRE DEL BOT" en la barra de título */
+
+        --df-messenger-chat-background-color: #ffffff; /* El color de fondo del cuadro de chat */
+
+        --df-messenger-input-box-color: #ffffff; /* El color de fondo de la casilla de entrada de texto */
+
+        --df-messenger-input-font-color: #000000; /* El color de fuente para la casilla de entrada de texto */
+
+        --df-messenger-input-placeholder-font-color: #1a1a1a; /* El color de fuente para el texto del marcador de posición en la casilla de entrada de texto */
+
+        --df-messenger-minimized-chat-close-icon-color: #ffffff; /* El color del ícono de cierre en la vista del chat cerrado */
+      }
+    </style>
+
+    <!-- EXAMPLE BOT -->
+
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+
+    <df-messenger
+      chat-title="🐱‍👤 Bot"
+      agent-id="e8155cb8-d0b3-4f5d-a1b1-14a4e4e8be6a"
+      chat-icon="https://codexceleste.com/chatbots/core/images/zaroc1.png"
+      intent="test"
+      language-code="es"
+    ></df-messenger>
+  </body>
+</html>
